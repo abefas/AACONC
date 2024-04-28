@@ -1,0 +1,3 @@
+/home/abefas/Desktop/AACONC_og/build/CMakeFiles/AACONC.dir
+/home/abefas/Desktop/AACONC_og/build/CMakeFiles/edit_cache.dir
+/home/abefas/Desktop/AACONC_og/build/CMakeFiles/rebuild_cache.dir
